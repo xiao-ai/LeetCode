@@ -8,7 +8,7 @@ public class Solution {
 				index++;
 			}
 		}
-		
+
 		return index;
 	}
 }
